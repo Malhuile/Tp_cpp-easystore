@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Malo\Desktop\TP cpp\TP03\TP03\TP03\main.cpp(8,13): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  TP03.vcxproj -> C:\Users\Malo\Desktop\TP cpp\TP03\TP03\x64\Debug\TP03.exe
